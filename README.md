@@ -17,7 +17,7 @@ A command-line Python application to track your daily health metrics and mood. L
 1. **Clone the Repository:**
 
 ```bash
-   git clone https://github.com/yourusername/health_tracker.git
+   git clone https://github.com/techwithgbenga/health_tracker.git
    cd health-tracker
 ```
 2. **Install Dependencies:**
